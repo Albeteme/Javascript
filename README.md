@@ -1,6 +1,7 @@
 # Javascript and DOM Manipulation
 
-For this task, I will play with some aliens datasets and I have two parts presented in UFO-level-and UFO-level-2.
+For this task, I will play with some aliens datasets.
+I need to write code that will create a table dynamically based upon a dataset provided. I also need to allow users to filter the table data for specific values. Using JavaScript, HTML, and CSS, and D3.js, I have two parts presented in UFO-level-and UFO-level-2.
 
 ### Level 1: Automatic Table and Date Search (Required)
 
@@ -16,7 +17,7 @@ For this task, I will play with some aliens datasets and I have two parts presen
 
 * Complete all of Level 1 criteria.
 
-* Using multiple `input` tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
+* Using multiple `input` tags and/or select dropdowns, write JavaScript code so the user can set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
   1. `date/time`
   2. `city`
