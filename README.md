@@ -1,4 +1,5 @@
-# Javascript and DOM Manipulation
+# Javascript
+# UFO Sightings and DOM Manipulation
 
 For this task, I will play with some aliens datasets.
 I need to write code that will create a table dynamically based upon a dataset provided. I also need to allow users to filter the table data for specific values. Using JavaScript, HTML, and CSS, and D3.js, I have two parts presented in UFO-level-and UFO-level-2.
